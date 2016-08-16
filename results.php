@@ -85,7 +85,7 @@ $success;
           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
             <span class="sr-only">Toggle navigation</span>
           </button>
-          <a class="navbar-brand" href="#">Labcorp Requisition Results Processing</a>
+          <a class="navbar-brand" href="#">Labcorp Results Generator </a>
         </div>
         <div id="navbar" class="navbar-collapse collapse">
         </div><!--/.navbar-collapse -->
@@ -95,7 +95,7 @@ $success;
     <!-- Main jumbotron for a primary marketing message or call to action -->
     <div class="jumbotron">
       <div class="container">
-        <h1>Labcorp Requisition Results Processing</h1>
+        <h1>Labcorp Results Generator</h1>
       </div>
     </div>
 
@@ -107,7 +107,7 @@ $success;
             <fieldset>
 
             <!-- Form Name -->
-            <legend>Requisition Results Processing </legend>
+            <legend>Labcorp Results Generator </legend>
 
             <!-- Text input-->
             <div class="form-group">
