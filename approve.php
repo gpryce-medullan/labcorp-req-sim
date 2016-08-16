@@ -87,6 +87,7 @@ $success;
           <a class="navbar-brand" href="#">Labcorp Requisition Approval</a>
         </div>
         <div id="navbar" class="navbar-collapse collapse">
+          <div><a href="https://labcorp-req-sim.herokuapp.com/results.php"> labcorp Results Generator</a> 
         </div><!--/.navbar-collapse -->
       </div>
     </nav>
